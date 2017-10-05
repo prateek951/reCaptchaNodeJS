@@ -1,0 +1,22 @@
+{
+  "name": "rec",
+  "version": "1.0.0",
+  "description": "A reCaptcha v2 Node.js Client-Server implementation of Google Recaptch V2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "captcha",
+    "nodejs",
+    "server",
+    "client"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "request": "^2.83.0"
+  }
+}
